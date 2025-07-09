@@ -1,0 +1,6 @@
+qdrant-client
+sentence-transformers
+transformers
+fastapi
+uvicorn[standard]
+nest_asyncio
