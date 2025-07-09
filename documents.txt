@@ -1,0 +1,3 @@
+Indonesia adalah negara kepulauan terbesar di dunia.
+Python adalah bahasa pemrograman populer untuk data science.
+Qdrant adalah vektor database untuk pencarian semantik.
